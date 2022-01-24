@@ -2,6 +2,9 @@
 First clone the project and run the following command:
 
 ```
-composer install and composer update
-php artisan serve
+1. composer update
+2. opy .env.example .env
+3. php artisan key:generate
+4. php artisan serve
 ```
+And run the project in web browser  http://127.0.0.1:8000
