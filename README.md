@@ -3,7 +3,7 @@ First clone the project and run the following command:
 
 ```
 1. composer update
-2. opy .env.example .env
+2. copy .env.example .env
 3. php artisan key:generate
 4. php artisan serve
 ```
